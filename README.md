@@ -26,4 +26,18 @@ My personal notes from the **Claude AI** certification course on HCL GUVI, organ
 
 ## Original Notes
 
-The original notes, exported from Notion as PDFs, are in [`original-notes-pdf/`](original-notes-pdf/).
+The original notes, exported from Notion as PDFs, are in [`original-notes-pdf/`](original-notes-pdf/), arranged in the same folders as the notes above.
+
+- [Course index](original-notes-pdf/00-course-index.pdf)
+- **1. Building a Strong Foundation in Claude AI**
+  - [Why Is Claude Different?](original-notes-pdf/01-building-a-strong-foundation/01-why-claude-is-different.pdf)
+  - [The Perfect Prompt Formula](original-notes-pdf/01-building-a-strong-foundation/02-the-perfect-prompt-formula.pdf)
+- **2. Apply Claude for Real-World AI Workflows**
+  - [Building Your System Prompt](original-notes-pdf/02-apply-claude-for-real-world-workflows/01-building-your-system-prompt.pdf)
+  - [Claude for Real Work Tasks](original-notes-pdf/02-apply-claude-for-real-world-workflows/02-claude-for-real-work-tasks.pdf)
+  - [Advanced Prompting Techniques](original-notes-pdf/02-apply-claude-for-real-world-workflows/03-advanced-prompting-techniques.pdf)
+  - [Multi-Turn Conversations & Memory in Claude](original-notes-pdf/02-apply-claude-for-real-world-workflows/04-multi-turn-conversations-and-memory.pdf)
+- **3. Build Your Claude Workspace**
+  - [Setting Up Your Claude Workspace](original-notes-pdf/03-build-your-claude-workspace/01-setting-up-your-claude-workspace.pdf)
+- **4. Manage Risk Safely**
+  - [Using Claude Responsibly](original-notes-pdf/04-manage-risk-safely/01-using-claude-responsibly.pdf)
